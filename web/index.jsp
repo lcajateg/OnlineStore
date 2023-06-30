@@ -14,7 +14,7 @@
         <div class="container center-block" >
             <div class="row justify-content-center">
         <div class="card" style="width: 18rem;">
-            <img src="logo.png" class="card-img-top" alt="...">
+            <!--<img src="logo.png" class="card-img-top" alt="...">-->
             <div class="card-body">
                 <form method="POST" action="Validar">
                     <div class="form-group">
@@ -23,7 +23,7 @@
                         <small id="emailHelp" class="form-text text-muted">Ingrese su documento sin espacios ni puntos</small>
                     </div>
                     <div class="form-group">
-                        <label for="exampleInputPassword1">Contraseña</label>
+                        <label for="exampleInputPassword1">ContraseÃ±a</label>
                         <input type="password" class="form-control" id="exampleInputPassword1" name="txtpassword">
                     </div>
                     <div class="form-group form-check">
